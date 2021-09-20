@@ -1,7 +1,3 @@
-<p>
-  <img src="./assets/images/Urna Eletrônica.gif">
-</p>
-
 ## About this project
 
 Project is an simple vote box, made with HTML5, CSS3 and JavaScript.
